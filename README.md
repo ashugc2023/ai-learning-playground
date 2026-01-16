@@ -92,3 +92,74 @@ No setup required.
 ```bash
 pip install jupyter
 jupyter notebook
+```
+
+---
+
+## 📚 Notebooks Index
+
+### 🚀 Start Here (Recommended for First-Time Visitors)
+- **Start Here: Welcome to AI Learning Playground**
+  - GitHub: [start-here.ipynb](start-here.ipynb)
+  - Colab: [Open in Colab](https://colab.research.google.com/github/ashugc2023/ai-learning-playground/blob/main/start-here.ipynb)
+  - Download: [Raw file](https://raw.githubusercontent.com/ashugc2023/ai-learning-playground/main/start-here.ipynb)
+
+### 🟢 AI Literacy
+- **Learning Faster with AI**
+  - GitHub: [ai-literacy/01_learning_faster_with_ai.ipynb](ai-literacy/01_learning_faster_with_ai.ipynb)
+  - Colab: [Open in Colab](https://colab.research.google.com/github/ashugc2023/ai-learning-playground/blob/main/ai-literacy/01_learning_faster_with_ai.ipynb)
+  - Download: [Raw file](https://raw.githubusercontent.com/ashugc2023/ai-learning-playground/main/ai-literacy/01_learning_faster_with_ai.ipynb)
+
+- **Using AI as a Thinking and Reasoning Partner**
+  - GitHub: [ai-literacy/02_ai_for_thinking_and_reasoning.ipynb](ai-literacy/02_ai_for_thinking_and_reasoning.ipynb)
+  - Colab: [Open in Colab](https://colab.research.google.com/github/ashugc2023/ai-learning-playground/blob/main/ai-literacy/02_ai_for_thinking_and_reasoning.ipynb)
+  - Download: [Raw file](https://raw.githubusercontent.com/ashugc2023/ai-learning-playground/main/ai-literacy/02_ai_for_thinking_and_reasoning.ipynb)
+
+### 🟡 AI Productivity
+- **AI for Daily Productivity: Small Wins That Compound**
+  - GitHub: [ai-productivity/03_ai_for_daily_productivity.ipynb](ai-productivity/03_ai_for_daily_productivity.ipynb)
+  - Colab: [Open in Colab](https://colab.research.google.com/github/ashugc2023/ai-learning-playground/blob/main/ai-productivity/03_ai_for_daily_productivity.ipynb)
+  - Download: [Raw file](https://raw.githubusercontent.com/ashugc2023/ai-learning-playground/main/ai-productivity/03_ai_for_daily_productivity.ipynb)
+
+- **Scaling Creativity with AI Without Burnout**
+  - GitHub: [ai-productivity/04_creativity_with_ai.ipynb](ai-productivity/04_creativity_with_ai.ipynb)
+  - Colab: [Open in Colab](https://colab.research.google.com/github/ashugc2023/ai-learning-playground/blob/main/ai-productivity/04_creativity_with_ai.ipynb)
+  - Download: [Raw file](https://raw.githubusercontent.com/ashugc2023/ai-learning-playground/main/ai-productivity/04_creativity_with_ai.ipynb)
+
+### 🔵 AI Automation
+- **From Manual Work to Automation with AI**
+  - GitHub: [ai-automation/05_automating_repetitive_work.ipynb](ai-automation/05_automating_repetitive_work.ipynb)
+  - Colab: [Open in Colab](https://colab.research.google.com/github/ashugc2023/ai-learning-playground/blob/main/ai-automation/05_automating_repetitive_work.ipynb)
+  - Download: [Raw file](https://raw.githubusercontent.com/ashugc2023/ai-learning-playground/main/ai-automation/05_automating_repetitive_work.ipynb)
+
+### 🚀 Agentic AI
+- **From Prompts to Agentic AI Systems**
+  - GitHub: [agentic-ai/06_intro_to_agentic_ai.ipynb](agentic-ai/06_intro_to_agentic_ai.ipynb)
+  - Colab: [Open in Colab](https://colab.research.google.com/github/ashugc2023/ai-learning-playground/blob/main/agentic-ai/06_intro_to_agentic_ai.ipynb)
+  - Download: [Raw file](https://raw.githubusercontent.com/ashugc2023/ai-learning-playground/main/agentic-ai/06_intro_to_agentic_ai.ipynb)
+
+- **Structured AI Reasoning with Graph-Based Workflows**
+  - GitHub: [agentic-ai/07_structured_reasoning_with_langgraph.ipynb](agentic-ai/07_structured_reasoning_with_langgraph.ipynb)
+  - Colab: [Open in Colab](https://colab.research.google.com/github/ashugc2023/ai-learning-playground/blob/main/agentic-ai/07_structured_reasoning_with_langgraph.ipynb)
+  - Download: [Raw file](https://raw.githubusercontent.com/ashugc2023/ai-learning-playground/main/agentic-ai/07_structured_reasoning_with_langgraph.ipynb)
+
+### 🧪 Experiments
+*Coming soon - experimental notebooks and prototypes*
+
+---
+
+## 🚀 Quick Start
+
+New to this repository? Start here:
+1. Check out the [Start Here notebook](start-here.ipynb) (recommended for first-time visitors)
+2. Or dive directly into [AI Literacy - Learning Faster with AI](ai-literacy/01_learning_faster_with_ai.ipynb)
+
+---
+
+## 📖 Section Guides
+
+- [AI Literacy Guide](ai-literacy/README.md) - Learn how to use AI effectively
+- [AI Productivity Guide](ai-productivity/README.md) - Boost your daily productivity
+- [AI Automation Guide](ai-automation/README.md) - Automate repetitive tasks
+- [Agentic AI Guide](agentic-ai/README.md) - Build intelligent agentic systems
+- [Experiments](experiments/README.md) - Experimental notebooks and prototypes
